@@ -410,7 +410,7 @@ Text = [[
 ❦⦚ اسم البوت + غادر ← غادري
 ❦⦚ ردود المطور
 ❦⦚ اذاعه
- ء┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
+⏦Ⓐ⓷ⓀⓄⓃ ❦ ⓇⓉ⊝ⓎⓉ⏦
 ❦⦚ CH ➤ @SoalfLove
 ]]
 send(msg.chat_id_, msg.id_,(help_text or Text)) 
